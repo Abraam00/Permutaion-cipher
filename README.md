@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abraam Youssef
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Python, and C++
 - 💞️ I’m looking to collaborate on an experince gaining oppurtunities.
 - 📫 How to reach me abraamadel01@gmail.com
 
